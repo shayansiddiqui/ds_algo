@@ -1,5 +1,5 @@
 # Data structures and Algorithms for Programming interviews
-This repository hosts solution to many of the common problems while preparing for the programming interviews focused on data structures and algorithms.
+This repository hosts solution(in python) to many of the common problems while preparing for the programming interviews focused on data structures and algorithms.
 
 ## Resources
 Here we are focused on covering 3 resources
